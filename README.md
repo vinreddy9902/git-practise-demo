@@ -1,1 +1,1 @@
-# git-practise-demo
+# chef-cookbooks & receipes
